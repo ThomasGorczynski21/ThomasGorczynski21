@@ -1,1 +1,1 @@
-Hello everyone, I'm Thomas Gorczynski, just looking for a keepsake for all my development files.
+Hello everyone, I'm Thomas Gorczynski, just looking for a keepsake for all my development files. I have a diploma in CSD but have gotten a tad rusty without usage. In school I used .Net Framework, so Core will be a nice refresher. This is a fresh GitHub account that'll help me organize my practice projects, website and more. 
